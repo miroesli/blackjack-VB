@@ -1,0 +1,22 @@
+H:\programming 11\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+H:\programming 11\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+H:\programming 11\BlackJack\BlackJack\bin\Debug\BlackJack.xml
+H:\programming 11\BlackJack\BlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\programming 11\BlackJack\BlackJack\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\programming 11\BlackJack\BlackJack\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\programming 11\BlackJack\BlackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\programming 11\BlackJack\BlackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\programming 11\BlackJack\BlackJack\obj\x86\Debug\BlackJack.exe
+H:\programming 11\BlackJack\BlackJack\obj\x86\Debug\BlackJack.xml
+H:\programming 11\BlackJack\BlackJack\obj\x86\Debug\BlackJack.pdb
+C:\Users\Michail\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Michail\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Michail\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.xml
+C:\Users\Michail\Desktop\BlackJack\BlackJack\obj\x86\Debug\BlackJack.vbprojAssemblyReference.cache
+C:\Users\Michail\Desktop\BlackJack\BlackJack\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Michail\Desktop\BlackJack\BlackJack\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Michail\Desktop\BlackJack\BlackJack\obj\x86\Debug\BlackJack.vbproj.GenerateResource.cache
+C:\Users\Michail\Desktop\BlackJack\BlackJack\obj\x86\Debug\BlackJack.vbproj.CoreCompileInputs.cache
+C:\Users\Michail\Desktop\BlackJack\BlackJack\obj\x86\Debug\BlackJack.exe
+C:\Users\Michail\Desktop\BlackJack\BlackJack\obj\x86\Debug\BlackJack.xml
+C:\Users\Michail\Desktop\BlackJack\BlackJack\obj\x86\Debug\BlackJack.pdb
